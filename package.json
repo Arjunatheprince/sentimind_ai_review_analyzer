@@ -40,7 +40,7 @@
     "eslint-config-next": "^16.4.3",
     "tailwindcss": "^4.3.3",
     "typescript": "^6.0.3",
-    "vitest": "^4.1.12"
+    "vitest": "^5.0.5"
   },
   "optionalDependencies": {
     "@rolldown/binding-win32-x64-msvc": "^1.2.15"
